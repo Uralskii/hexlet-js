@@ -1,0 +1,20 @@
+{
+  "name": "@hexlet/nodejs-package",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Node.js boiler package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uralskii/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uralskii/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Uralskii/hexlet-js#readme"
+}
